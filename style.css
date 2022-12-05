@@ -1,0 +1,46 @@
+body{
+    border: 1px solid red;
+    background-color: rgb(255, 255, 255);
+    background-image: url(img4.jpg);
+}
+
+ul{
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;   
+
+}
+li{
+    list-style-type: none;
+    margin: 6px; 
+    float: left;   
+}
+
+button{
+    text-align: center;
+    text-align-last: right;
+    background-color:rgb(255, 255, 255);
+    color: brown;
+    align-content: center;
+}
+form{
+    text-align: end;
+    background-color: rgb(44, 17, 17);
+    color: aliceblue;
+    height: 100px;
+}
+div{
+    background-color: brown;
+}
+#body{
+    background-color:whitesmoke;
+    background-image: url("https://healthjade.com/wp-content/uploads/2017/09/red-blood-cells.jpg");
+    color:pink;
+    
+}
+#gm{
+    background-color: maroon;
+}
+#gn{
+    background-color: maroon;
+}
